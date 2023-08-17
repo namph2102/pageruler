@@ -1,0 +1,272 @@
+{
+  "extName": {
+    "message": "Page Ruler",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "Page Ruler",
+    "description": "Extension short name (maximum 12 characters)"
+  },
+  "extDescription": {
+    "message": "Thước đo response siêu xịn mịn nhé mọi người, yên tâm rất dễ sử dụng nha thích hợp cho anh em làm Front End nhé💻",
+    "description": "Extension description"
+  },
+  "toolbarWidth": {
+    "message": "Rộng",
+    "description": "Nhãn cho chiều rộng được nhập vào ở thanh công cụ"
+  },
+  "toolbarHeight": {
+    "message": "Cao",
+    "description": "Nhãn cho chiều cao được nhập vào ở thanh công cụ"
+  },
+  "toolbarLeft": {
+    "message": "Lề trái",
+    "description": "Nhãn cho lề trái được nhập vào ở thanh công cụ"
+  },
+  "toolbarRight": {
+    "message": "Lề phải",
+    "description": "Nhãn cho lề phải được nhập vào ở thanh công cụ"
+  },
+  "toolbarTop": {
+    "message": "Lề trên",
+    "description": "Nhãn cho lề trên được nhập vào ở thanh công cụ"
+  },
+  "toolbarBottom": {
+    "message": "Lề dưới",
+    "description": "Nhãn cho lề dưới được nhập vào ở thanh công cụ"
+  },
+  "toolbarColor": {
+    "message": "Màu",
+    "description": "Nhãn công cụ chọn màu ở thanh công cụ"
+  },
+  "toolbarClose": {
+    "message": "Đóng",
+    "description": "Tooltip cho nút đóng dùng để đóng addon"
+  },
+  "toolbarEnableElementMode": {
+    "message": "Kích hoạt chế độ phần tử",
+    "description": "Nhãn cho nút kích hoạt chế độ phần tử (phần tử trong phần tử HTML)"
+  },
+  "toolbarDisableElementMode": {
+    "message": "Tắt chế độ phẩn tử",
+    "description": "Nhãn cho nút tắt chế độ phần tử (phần tử trong phần tử HTML)"
+  },
+  "elementToolbarHelp": {
+    "message": "Dùng chế độ theo dõi để di chuyển trong trang và làm nổi các phần tử. Click một phần tử để tắt chế độ theo dõi.",
+    "description": "Vấn tin trợ giúp cho thanh công cụ phần tử"
+  },
+  "elementToolbarHighlightedElement": {
+    "message": "Làm nổi phần tử",
+    "description": "Tựa đề cho phần tử được nỗi bật trong chế độ theo dõi"
+  },
+  "elementToolbarParentNode": {
+    "message": "Phần tử cha",
+    "description": "Tựa đề cho phần tử cha của phần tử được nỗi bật trong chế độ theo dõi"
+  },
+  "elementToolbarChildNode": {
+    "message": "Phần tử con",
+    "description": "Tựa đề cho phần tử con của phần tử được nỗi bật trong chế độ theo dõi"
+  },
+  "elementToolbarPreviousSibling": {
+    "message": "Phần tử trước",
+    "description": "Tựa đề cho phần tử trước phần tử được nỗi bật trong chế độ theo dõi"
+  },
+  "elementToolbarNextSibling": {
+    "message": "Phần tử sau",
+    "description": "Tựa đề cho phần tử sau phần tử được nỗi bật trong chế độ theo dõi"
+  },
+  "elementToolbarTrackingMode": {
+    "message": "Chế độ thep dõi",
+    "description": "Nhãn cho nút chế độ theo dõi"
+  },
+  "elementToolbarToggleOn": {
+    "message": "Bật",
+    "description": "Chữ cho trạng thái bật cho nút chế độ theo dõi"
+  },
+  "elementToolbarToggleOff": {
+    "message": "Tắt",
+    "description": "Chữ cho trạng thái tắt cho nút chế độ theo dõi"
+  },
+  "optionsPageTitle": {
+    "message": "Tuỳ chỉnh Page Ruler",
+    "description": "Tựa đề cho trang tuỳ chỉnh"
+  },
+  "optionsStatisticsLabel": {
+    "message": "Gửi ẩn danh thống kê sử dụng:",
+    "description": "Nhãn cho checkbox gửi ẩn danh thống kê sử dụng"
+  },
+  "optionsStatisticsHelp": {
+    "message": "Thông tin thu thập không chứa thông tin riêng tư và được sử dụng hoàn toàn cho mục đích cải thiện tiện ích này bằng cách xem những phần nào được sử dụng",
+    "description": "Tin nhắn giải thích cách sử dụng các dữ liệu thống kê ẩn danh"
+  },
+  "updatePageTitle": {
+    "message": "Đã cập nhật Page Ruler",
+    "desciption": "Tựa để cho trang cập nhật"
+  },
+  "updatePageHeader": {
+    "message": "Page Ruler đã được cập nhật lên phiên bản <span>$VERSION$</span>",
+    "description": "Tựa đề chính cho trang chứa số phiên bản mới",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "2.0.1"
+      }
+    }
+  },
+  "updateContributeTitle": {
+    "message": "Đóng góp cho Page Ruler",
+    "desciption": "Tựa đề cho ô đóng góp"
+  },
+  "updateTranslateTitle": {
+    "message": "Dịch",
+    "desciption": "Tựa đề cho phần dịch trong ô đóng góp"
+  },
+  "updateTranslateDescription": {
+    "message": "Muốn sử dụng công cụ chat AI hãy ghé thăm <a href='https://zecky.online/'>zecky,online</a> để ủng hộ.",
+    "desciption": "Mô tả cách đóng góp bản dịch"
+  },
+  "updateContributorsTitle": {
+    "message": "Những người đóng góp",
+    "desciption": "Tựa đề cho ô những nguời đóng góp"
+  },
+  "updateCodeTitle": {
+    "message": "Mã",
+    "desciption": "Tựa đề cho phần mã trong ô những nguời đóng góp"
+  },
+  "updateIconsTitle": {
+    "message": "Các icon",
+    "desciption": "Tựa đề cho phần icon trong ô những nguời đóng góp"
+  },
+  "updateTranslationsTitle": {
+    "message": "Các bản dịch",
+    "desciption": "Tựa đề cho phần dịch trong ô những nguời đóng góp"
+  },
+  "updateHistoryTitle": {
+    "message": "Có gì mới?",
+    "desciption": "Tựa đề cho lịch sử cập nhật"
+  },
+  "errorLocal": {
+    "message": "Các tiện ích không thể chạy trong các trang chrome nội bộ vì lý do an ninh",
+    "description": "Thông báo lỗi hiển thị khi một ai đó định chạy tiện ích trong trang chrome nội bộ"
+  },
+  "errorWebStore": {
+    "message": "Các tiện ích không thể chạy trong chrome web store vì lý do an ninh",
+    "description": "Thông báo lỗi hiển thị khi một ai đó định chạy tiện ích trong chrome web store"
+  },
+
+  "toolbarGuides": {
+    "message": "Hướng dẫn sử dụng",
+    "description": "Hướng dẫn sử dụng để sử dụng bẳng tiếng anh"
+  },
+
+  "toolbarHelp": {
+    "message": "Hiển thị trợ giúp và thông báo",
+    "description": "Trợ giúp trên thanh công cụ"
+  },
+  "updateKeyBoardShortcutsGeneral": {
+    "message": "Phím tắt chung",
+    "description": "Tiêu đề và phím tắt chung"
+  },
+
+  "updateReportIssue": {
+    "message": "Báo cáo sự cố hoặc đưa ra đề xuất",
+    "description": "Văn bản nút báo cáo sự cố"
+  },
+  "updateSupportTitle": {
+    "message": "Hỗ trợ thước đo trang",
+    "description": "Tiêu đề phần hỗ trợ"
+  },
+  "updateSupportText": {
+    "message": "Page Ruler đã và sẽ luôn <b>miễn phí</b>. Nếu bạn có thời gian rảnh rỗi, hãy ủng hộ nó bằng cách để lại đánh giá và cho mọi người biết nó là một công cụ tuyệt vời và hữu ích như thế nào.",
+    "description": "Văn bản phần hỗ trợ"
+  },
+  "updateSupportText2": {
+    "message": "Nếu bạn cảm thấy đặc biệt tuyệt vời và hào phóng, một số người dùng đã hỏi liệu họ có thể quyên góp để nói lời cảm ơn cho Page Ruler hay không. Tôi muốn bất kỳ khoản tiền nào được chuyển đến một mục đích xứng đáng hơn bản thân tôi, vì vậy nếu bạn muốn nói lời cảm ơn cùng lúc với việc giúp đỡ một tổ chức từ thiện gần gũi với trái tim tôi, điều đó sẽ khiến tôi vui vẻ :)",
+    "description": "Dòng thứ hai của văn bản phần hỗ trợ"
+  },
+  "updateSupportReviewText": {
+    "message": "Để lại đánh giá",
+    "description": "Văn bản nút để lại đánh giá"
+  },
+  "updateSupportDonateText": {
+    "message": "Đọc thêm và quyên góp",
+    "description": "Văn bản nút quyên góp"
+  },
+  "updateOtherExtensionsText": {
+    "message": "Tiện ích mở rộng khác của tôi",
+    "description": "Tiêu đề phần mở rộng khác"
+  },
+  "updatePageTitleInstall": {
+    "message": "Đã cài đặt thước kẻ trang",
+    "description": "Tiêu đề trang cho trang cài đặt"
+  },
+  "toolbarBorderSearch": {
+    "message": "Do khung hình",
+    "description": "Gắn nhãn cho chuyển đổi tìm kiếm viền hiển thị trên thanh công cụ"
+  },
+
+  "toolbarDockBottom": {
+    "message": "Gắn thanh công cụ xuống cuối trang",
+    "description": "Chú giải công cụ cho hình ảnh dưới cùng của dock"
+  },
+  "toolbarDockTop": {
+    "message": "Gắn thanh công cụ lên đầu trang",
+    "description": "Chú giải công cụ cho hình ảnh trên cùng của dock"
+  },
+  "updateKeyBoardShortcuts": {
+    "message": "Phím tắt",
+    "description": "Tiêu đề cho phần phím tắt"
+  },
+  "updateKeyboardShortcutsToggle": {
+    "message": "<b>Alt + P:</b> Bật/Tắt thước kẻ trang",
+    "description": "Mô tả phím tắt Alt + P"
+  },
+  "updateKeyboardShortcutsRuler": {
+    "message": "Thước kẻ",
+    "description": "Tiêu đề cho phần phím mũi tên thước kẻ"
+  },
+  "updateKeyboardShortcutsRulerKeys": {
+    "message": "<b>Phím mũi tên:</b> Di chuyển thước 1 pixel theo bất kỳ hướng nào",
+    "description": "Mô tả phím tắt của phím mũi tên"
+  },
+  "updateKeyboardShortcutsRulerShift": {
+    "message": "<b>+ Shift:</b> Di chuyển thước thêm 10 pixel",
+    "description": "Phím mũi tên + Shift mô tả phím tắt"
+  },
+  "updateKeyboardShortcutsRulerCtrl": {
+    "message": "<b>+ Ctrl:</b> Mở rộng thước ra ngoài 1 pixel",
+    "description": "Phím mũi tên + Mô tả phím tắt Ctrl"
+  },
+  "updateKeyboardShortcutsRulerShiftCtrl": {
+    "message": "<b>+ Shift + Ctrl:</b> Mở rộng thước ra ngoài 10 pixel",
+    "description": "Mô tả phím mũi tên + Shift + Ctrl"
+  },
+  "updateKeyboardShortcutsRulerCtrlAlt": {
+    "message": "<b>+ Ctrl + Alt:</b> Thu nhỏ thước vào trong 1 pixel",
+    "description": "Phím mũi tên _Ctrl + Alt mô tả phím tắt"
+  },
+  "updateKeyboardShortcutsRulerShiftCtrlAl": {
+    "message": "<b>+ Shift + Ctrl + Alt:</b> Thu nhỏ thước vào trong 10 pixel",
+    "description": "Phím mũi tên + Shift + Alt mô tả phím tắt"
+  },
+  "updateKeyboardShortcutsToolbar": {
+    "message": "Đầu vào Thanh công cụ",
+    "description": "Tiêu đề cho phần phím tắt nhập trên thanh công cụ"
+  },
+  "updateKeyboardShortcutsToolbarUp": {
+    "message": "<b>Up Key:</b> Tăng giá trị lên 1",
+    "description": "Mô tả phím tắt nhập phím lên"
+  },
+  "updateKeyboardShortcutsToolbarUpShift": {
+    "message": "<b>+ Shift:</b> Tăng giá trị lên 10",
+    "description": "Phím lên + Shift mô tả lối tắt đầu vào"
+  },
+  "updateKeyboardShortcutsToolbarDown": {
+    "message": "<b>Phím Xuống:</b> Giảm giá trị đi 1",
+    "description": "Phím xuống mô tả phím tắt nhập"
+  },
+  "updateKeyboardShortcutsToolbarDownShift": {
+    "message": "<b>+ Shift:</b> Giảm giá trị đi 10",
+    "description": "Phím xuống + Shift mô tả phím tắt đầu vào"
+  }
+}

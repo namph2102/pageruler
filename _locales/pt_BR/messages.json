@@ -1,0 +1,156 @@
+{
+  "extName": {
+    "message": "Page Ruler",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "Page Ruler",
+    "description": "Extension short name (maximum 12 characters)"
+  },
+  "extDescription": {
+    "message": "A Web Developer\\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 💻",
+    "description": "Extension description"
+  },
+  "toolbarWidth": {
+    "message": "Largura",
+    "description": "Nome do campo de largura na barra de ferramentas"
+  },
+  "toolbarHeight": {
+    "message": "Height",
+    "description": "Nome do campo de altura na barra de ferramentas"
+  },
+  "toolbarLeft": {
+    "message": "Esquerda",
+    "description": "Nome do campo de posicionamento à esquerda na barra de ferramentas"
+  },
+  "toolbarRight": {
+    "message": "Direita",
+    "description": "Nome do campo de posicionamento à direita na barra de ferramentas"
+  },
+  "toolbarTop": {
+    "message": "Cima",
+    "description": "Nome do campo de posicionamento superior na barra de ferramentas"
+  },
+  "toolbarBottom": {
+    "message": "Baixo",
+    "description": "Nome do campo de posicionamento inferior na barra de ferramentas"
+  },
+  "toolbarColor": {
+    "message": "Cor",
+    "description": "Nome do selecionador de cor na barra de ferramentas"
+  },
+  "toolbarClose": {
+    "message": "Fechar",
+    "description": "Tooltip do botão de fechar do addon"
+  },
+  "toolbarEnableElementMode": {
+    "message": "Ativar Modo de Elementos",
+    "description": "Nome do botão de ativar modo de elementos (elementos HTML)"
+  },
+  "toolbarDisableElementMode": {
+    "message": "Desativar Modo de Elementos",
+    "description": "Nome do botão de desativar modo de elementos (elementos HTML)"
+  },
+  "elementToolbarHelp": {
+    "message": "Use o modo de tracking para mover sobre a págian e destacar elementos. Clique em um elemento para destivar o modo de tracking.",
+    "description": "Mensagem de ajuda para a barra de ferramentas"
+  },
+  "elementToolbarHighlightedElement": {
+    "message": "Elemento destacado",
+    "description": "Título para o elemento destacado em modo de tracking"
+  },
+  "elementToolbarParentNode": {
+    "message": "Nó pai",
+    "description": "Título para o nó pai do elemento destacado em modo de tracking"
+  },
+  "elementToolbarChildNode": {
+    "message": "Nó filho",
+    "description": "Título para o nó filho do elemento destacado em modo de tracking"
+  },
+  "elementToolbarPreviousSibling": {
+    "message": "Nó irmão anterior",
+    "description": "Título para o nó irmão anterior do elemento destacado em modo de tracking"
+  },
+  "elementToolbarNextSibling": {
+    "message": "Próximo nó irmão",
+    "description": "Título para o nó irmão posterior do elemento destacado em modo de tracking"
+  },
+  "elementToolbarTrackingMode": {
+    "message": "Modo de Tracking",
+    "description": "Nome do botão de ativar/desativar modo de traking"
+  },
+  "elementToolbarToggleOn": {
+    "message": "Ligado",
+    "description": "O texto de estado ligado para o botão de ativar/desativar modo de tracking"
+  },
+  "elementToolbarToggleOff": {
+    "message": "Desligado",
+    "description": "O texto de estado desligado para o botão de ativar/desativar modo de tracking"
+  },
+  "optionsPageTitle": {
+    "message": "Opções do Page Ruler",
+    "description": "Título da página de opções"
+  },
+  "optionsStatisticsLabel": {
+    "message": "Enviar estatísticas anônimas de uso:",
+    "description": "Nome da checkbox de enviar estatísticas anônimas de uso"
+  },
+  "optionsStatisticsHelp": {
+    "message": "Informações coletadas não contém detalhes pessoais e são utilizadas somente com a intenção de melhorar esta extensão vendo que seções são mais utilizadas",
+    "description": "Mensagem explicando como as estatísticas anônimas de uso são utilizadas"
+  },
+  "updatePageTitle": {
+    "message": "Page Ruler Atualizado",
+    "desciption": "Título da página de atualização"
+  },
+  "updatePageHeader": {
+    "message": "Page Ruler foi atualizado para a versão <span>$VERSION$</span>",
+    "description": "Mensagem de cabeçalho para a página contendo o número da versão nova",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "2.0.1"
+      }
+    }
+  },
+  "updateContributeTitle": {
+    "message": "Contribua com o Page Ruler",
+    "desciption": "Título para a caixa lateral de contribuição"
+  },
+  "updateTranslateTitle": {
+    "message": "Tradução",
+    "desciption": "Título para a seção de tradução na caixa lateral de contribuição"
+  },
+  "updateTranslateDescription": {
+    "message": "Want to use Page Ruler in your own language? Pleast chat with me at  <a href='https://www.zecky.online/'>Zecky</a> and search admin.",
+    "desciption": "Descrição de como entender e contribuir com uma tradução"
+  },
+  "updateContributorsTitle": {
+    "message": "Colaboradores",
+    "desciption": "Título para a caixa lateral de colaboradores"
+  },
+  "updateCodeTitle": {
+    "message": "Código",
+    "desciption": "Título para a seção do código na caixa lateral de colaboradores"
+  },
+  "updateIconsTitle": {
+    "message": "Ícones",
+    "desciption": "Título para a seção de ícones na caixa lateral de colaboradores"
+  },
+  "updateTranslationsTitle": {
+    "message": "Traduções",
+    "desciption": "Título para a seção de traduções na caixa lateral de colaboradores"
+  },
+  "updateHistoryTitle": {
+    "message": "O que há de novo?",
+    "desciption": "Título para a seção de histórico de atualizações"
+  },
+  "errorLocal": {
+    "message": "Extensões não podem rodar em páginas locais por razões de segurança",
+    "description": "Mensagem de erro ao executar a extensão em uma página de extensão do chrome"
+  },
+  "errorWebStore": {
+    "message": "Extensões não podem rodar na chrome web store por razões de segurança",
+    "description": "Mensagem de erro ao executar a extensão na chrome web store"
+  }
+}

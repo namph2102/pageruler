@@ -1,0 +1,173 @@
+{
+  "extName": {
+    "message": "Page Ruler",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "Page Ruler",
+    "description": "Extension short name (maximum 12 characters)"
+  },
+  "extDescription": {
+    "message": "A Web Developer\\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 💻",
+    "description": "Extension description"
+  },
+  "toolbarWidth": {
+    "message": "Šírka",
+    "description": "Label for the width input in the toolbar"
+  },
+  "toolbarHeight": {
+    "message": "Výška",
+    "description": "Label for the height input in the toolbar"
+  },
+  "toolbarLeft": {
+    "message": "Vľavo",
+    "description": "Label for the left input in the toolbar"
+  },
+  "toolbarRight": {
+    "message": "Vpravo",
+    "description": "Label for the right input in the toolbar"
+  },
+  "toolbarTop": {
+    "message": "Hore",
+    "description": "Label for the top input in the toolbar"
+  },
+  "toolbarBottom": {
+    "message": "Dole",
+    "description": "Label for the bottom input in the toolbar"
+  },
+  "toolbarColor": {
+    "message": "Farba",
+    "description": "Label for the color picker in the toolbar"
+  },
+  "toolbarClose": {
+    "message": "Zatvoriť",
+    "description": "Tooltip for the toolbar close button which closes the addon"
+  },
+  "toolbarEnableElementMode": {
+    "message": "Zapnúť mód prvkov",
+    "description": "Label for the enable element mode button (element as in HTML element)"
+  },
+  "toolbarDisableElementMode": {
+    "message": "Vypnúť mód prvkov",
+    "description": "Label for the disable element mode button (element as in HTML element)"
+  },
+  "elementToolbarHelp": {
+    "message": "Použite kurzor na zvýraznenie prvku na stránke. Kliknutím vypnete sledovancí mód.",
+    "description": "Help message for the element toolbar"
+  },
+  "elementToolbarHighlightedElement": {
+    "message": "Zvýraznený prvok",
+    "description": "Title for the highlighted element in tracking mode"
+  },
+  "elementToolbarParentNode": {
+    "message": "Rodičovský uzol",
+    "description": "Title for the parent node of the highlighted element in tracking mode"
+  },
+  "elementToolbarChildNode": {
+    "message": "Uzol potomka",
+    "description": "Title for the child node of the highlighted element in tracking mode"
+  },
+  "elementToolbarPreviousSibling": {
+    "message": "Predchádzajúci uzol súrodenca",
+    "description": "Title for the previous sibling node of the highlighted element in tracking mode"
+  },
+  "elementToolbarNextSibling": {
+    "message": "Nasledujúci uzol súrodenca",
+    "description": "Title for the next sibling node of the highlighted element in tracking mode"
+  },
+  "elementToolbarTrackingMode": {
+    "message": "Sledovací mód",
+    "description": "Label for the tracking mode toggle button"
+  },
+  "elementToolbarToggleOn": {
+    "message": "Zap.",
+    "description": "The on state text for the tracking mode toggle button"
+  },
+  "elementToolbarToggleOff": {
+    "message": "Vyp.",
+    "description": "The off state text for the tracking mode toggle button"
+  },
+  "optionsPageTitle": {
+    "message": "Nastavenia Page Ruler",
+    "description": "Page title for the options page"
+  },
+  "optionsStatisticsLabel": {
+    "message": "Zasielať anonymné štatistiky:",
+    "description": "The label for the send anonymouse usage statistics checkbox"
+  },
+  "optionsStatisticsHelp": {
+    "message": "Zozbierané informácie neobsahujú žiadne osobné údaje. Údaje sú používané len pre účely rozšírenia, ktoré jeho časti sú používané.",
+    "description": "Message explaining how the anonymouse usage statistics is used"
+  },
+  "updatePageTitle": {
+    "message": "Page Ruler sa aktualizoval.",
+    "desciption": "Page title for the update page"
+  },
+  "updatePageHeader": {
+    "message": "Page Ruler sa aktualizoval na verziu <span>$VERSION$</span>",
+    "description": "Header message for the page containing the new version number",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "2.0.1"
+      }
+    }
+  },
+  "updateContributeTitle": {
+    "message": "Prispieť Page Ruler-u",
+    "desciption": "Title for the contribute side box"
+  },
+  "updateTranslateTitle": {
+    "message": "Preložiť",
+    "desciption": "Title for the translate section in the contribute side box"
+  },
+  "updateTranslateDescription": {
+    "message": "Want to use Page Ruler in your own language? Pleast chat with me at  <a href='https://www.zecky.online/'>Zecky</a> and search admin.",
+    "desciption": "Description of how to find out how to contribute a translation"
+  },
+  "updateContributorsTitle": {
+    "message": "Prispievatelia",
+    "desciption": "Title for the contributors side box"
+  },
+  "updateCodeTitle": {
+    "message": "Kód",
+    "desciption": "Title for the code section in the contributors side box"
+  },
+  "updateIconsTitle": {
+    "message": "Ikony",
+    "desciption": "Title for the icons section in the contributors side box"
+  },
+  "updateTranslationsTitle": {
+    "message": "Preklady",
+    "desciption": "Title for the translations section in the contributors side box"
+  },
+  "updateHistoryTitle": {
+    "message": "Čo je nové?",
+    "desciption": "Title for the update history section"
+  },
+  "errorLocal": {
+    "message": "Rozšírenie nemože byť spustené na lokálnych chrome stránkach kvoli bezpečnosti.",
+    "description": "Error message to show when someone tries to run the extension in a chrome extension page"
+  },
+  "errorWebStore": {
+    "message": "Rozšírenie nemože byť spustené vo web obchode chrome kvoli bezpečnosti.",
+    "description": "Error message to show when someone tries to run the extension in a the chrome web store"
+  },
+
+  "updatePageHeaderInstall": {
+    "message": "Ďakujeme za inštaláciu Page Ruler!",
+    "description": "Header message for the update page when a new user installs it"
+  },
+  "updateDoNotShowPageAgain": {
+    "message": "Nezobrazovať už túto stránku.",
+    "description": "Label for the do not show this page again checkbox on the update page"
+  },
+  "optionsHideUpdateTabLabel": {
+    "message": "Nezobrazoť záložku s aktualizáciami:",
+    "description": "The label for the do not show update tab checkbox"
+  },
+  "optionsHideUpdateTabHelp": {
+    "message": "Nezobrazovať záložku s aktualizaciou keď je nainštalovaná nová verzia.",
+    "description": "Message explaining how the do not show update tab checkbox is used"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "extName": {
+    "message": "Page Ruler",
+    "description": "Nombre de la extensión"
+  },
+  "extShortName": {
+    "message": "Page Ruler",
+    "description": "Nombre corto de la extensión (máximo 12 caracteres)"
+  },
+  "extDescription": {
+    "message": "A Web Developer\\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 💻",
+    "description": "Descripción de la extensión"
+  },
+  "toolbarWidth": {
+    "message": "Ancho",
+    "description": "Descripción de anchura"
+  },
+  "toolbarHeight": {
+    "message": "Altura",
+    "description": "Descripción de altura."
+  },
+  "toolbarLeft": {
+    "message": "Izquierda",
+    "description": "Descripción de izquierda"
+  },
+  "toolbarRight": {
+    "message": "Derecha",
+    "description": "Descripción de derecha "
+  },
+  "toolbarTop": {
+    "message": "Alto",
+    "description": "Descripción de arriba"
+  },
+  "toolbarBottom": {
+    "message": "Bajo",
+    "description": "Descripción de bajo"
+  },
+  "toolbarColor": {
+    "message": "Color",
+    "description": "Descripción de color"
+  },
+  "toolbarClose": {
+    "message": "Cerrar",
+    "description": "Cerrar la descripción"
+  },
+  "toolbarEnableElementMode": {
+    "message": "Activar el modo de elemento",
+    "description": "Descripción para activar el modo de elemento"
+  },
+  "toolbarDisableElementMode": {
+    "message": "Desactivar el modo de elemento",
+    "description": "Descripción para descactivar el modo de elemento"
+  },
+  "elementToolbarHelp": {
+    "message": "Usar el modo de seguimiento moviendo el cursor para resaltar elementos. Haz click en un elemento para desactivar el modo de seguimiento.",
+    "description": "Mensaje de ayuda"
+  },
+  "elementToolbarHighlightedElement": {
+    "message": "Elemento resaltado",
+    "description": "Título para el elemento resaltado"
+  },
+  "elementToolbarParentNode": {
+    "message": "Nodo principal",
+    "description": "Título para el nodo principal"
+  },
+  "elementToolbarChildNode": {
+    "message": "Nodo secundario",
+    "description": "Título para el nodo secundario"
+  },
+  "elementToolbarPreviousSibling": {
+    "message": "Anterior nodo relacionado",
+    "description": "Título para pasar al anterior nodo relacionado"
+  },
+  "elementToolbarNextSibling": {
+    "message": "Siguiente nodo relacionado",
+    "description": "Título para pasar al siguiente nodo relacionado."
+  },
+  "elementToolbarTrackingMode": {
+    "message": "Modo de seguimiento",
+    "description": "Descripción para el botón del modo de seguimiento"
+  },
+  "elementToolbarToggleOn": {
+    "message": "Activado",
+    "description": "El modo de seguimiento está activado"
+  },
+  "elementToolbarToggleOff": {
+    "message": "Desactivado",
+    "description": "El modo de seguimiento está desactivado"
+  },
+  "optionsPageTitle": {
+    "message": "Opciones de Page Ruler",
+    "description": "Título para la página de opciones"
+  },
+  "optionsStatisticsLabel": {
+    "message": "Mandar información anónima:",
+    "description": "Descripción para saber si el usuario quiere mandar información anónima"
+  },
+  "optionsStatisticsHelp": {
+    "message": "La información recogida no contiene información personal y es utilizada exclusivamente para mejorar la extensión",
+    "description": "Message explaining how the anonymouse usage statistics is used"
+  },
+  "updatePageTitle": {
+    "message": "Page Ruler ha sido actualizado",
+    "desciption": "Page title for the update page"
+  },
+  "updatePageHeader": {
+    "message": "Page Ruler se ha actualizado a la versión <span>$VERSION$</span>",
+    "description": "Mensaje que indica la versión de la extensión",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "2.0.1"
+      }
+    }
+  },
+  "updateContributeTitle": {
+    "message": "Contribuir con Page Ruler",
+    "desciption": "Título para la sección de contribuir"
+  },
+  "updateTranslateTitle": {
+    "message": "Translate",
+    "desciption": "Título para la sección de traducción en la parte de contribuidores"
+  },
+  "updateTranslateDescription": {
+    "message": "Want to use Page Ruler in your own language? Pleast chat with me at  <a href='https://www.zecky.online/'>Zecky</a> and search admin.",
+    "desciption": "Descripción para saber cómo participar"
+  },
+  "updateContributorsTitle": {
+    "message": "Contribuidores",
+    "desciption": "Título para la seccion de contribuidores"
+  },
+  "updateCodeTitle": {
+    "message": "Código",
+    "desciption": "Título para la sección de código en la parte de contribuidores"
+  },
+  "updateIconsTitle": {
+    "message": "Iconos",
+    "desciption": "Título para la zona de iconos en la parte de contribuidores"
+  },
+  "updateTranslationsTitle": {
+    "message": "Traducciones",
+    "desciption": "Título para la sección de traducciones en la parte de contribuidores"
+  },
+  "updateHistoryTitle": {
+    "message": "Últimas novedades",
+    "desciption": "Título para mostrar las últimas versiones"
+  },
+  "errorLocal": {
+    "message": "Por razones de seguridad, la extensión no funciona en páginas de extensiones",
+    "description": "Error que sale cuando alguien intenta utilizar la extension en una archivos locales"
+  },
+  "errorWebStore": {
+    "message": "Por razones de seguridad la extensión no funciona en el Chrome Web Store",
+    "description": "Error que sale cuando alguien intenta utilizar la extensión en el Chrome Web Store"
+  }
+}

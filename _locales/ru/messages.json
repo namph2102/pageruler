@@ -1,0 +1,289 @@
+{
+  "extName": {
+    "message": "Page Ruler",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "Page Ruler",
+    "description": "Extension short name (maximum 12 characters)"
+  },
+  "extDescription": {
+    "message": "A Web Developer\\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 💻",
+    "description": "Extension description (maximum 132 characters)"
+  },
+  "toolbarWidth": {
+    "message": "Ширина",
+    "description": "Label for the width input in the toolbar"
+  },
+  "toolbarHeight": {
+    "message": "Высота",
+    "description": "Label for the height input in the toolbar"
+  },
+  "toolbarLeft": {
+    "message": "Левая",
+    "description": "Label for the left input in the toolbar"
+  },
+  "toolbarRight": {
+    "message": "Правая",
+    "description": "Label for the right input in the toolbar"
+  },
+  "toolbarTop": {
+    "message": "Верх",
+    "description": "Label for the top input in the toolbar"
+  },
+  "toolbarBottom": {
+    "message": "Низ",
+    "description": "Label for the bottom input in the toolbar"
+  },
+  "toolbarColor": {
+    "message": "Цвет",
+    "description": "Label for the color picker in the toolbar"
+  },
+  "toolbarClose": {
+    "message": "Закрыть",
+    "description": "Tooltip for the toolbar close button which closes the addon"
+  },
+  "toolbarEnableElementMode": {
+    "message": "Включить Режим элементов",
+    "description": "Label for the enable element mode button (element as in HTML element)"
+  },
+  "toolbarDisableElementMode": {
+    "message": "Выключить Режим элементов",
+    "description": "Label for the disable element mode button (element as in HTML element)"
+  },
+  "elementToolbarHelp": {
+    "message": "Использовать режим слежения для перемещения по странице и выделения элементов. Щелкните элемент, чтобы отключить режим слежения.",
+    "description": "Help message for the element toolbar"
+  },
+  "elementToolbarHighlightedElement": {
+    "message": "Выделенный элемент",
+    "description": "Title for the highlighted element in tracking mode"
+  },
+  "elementToolbarParentNode": {
+    "message": "Родительский узел",
+    "description": "Title for the parent node of the highlighted element in tracking mode"
+  },
+  "elementToolbarChildNode": {
+    "message": "Дочерний узел",
+    "description": "Title for the child node of the highlighted element in tracking mode"
+  },
+  "elementToolbarPreviousSibling": {
+    "message": "Предыдущий одноуровневый элемент узла",
+    "description": "Title for the previous sibling node of the highlighted element in tracking mode"
+  },
+  "elementToolbarNextSibling": {
+    "message": "Следующий одноуровневый элемент узла",
+    "description": "Title for the next sibling node of the highlighted element in tracking mode"
+  },
+  "elementToolbarTrackingMode": {
+    "message": "Режим слежения",
+    "description": "Label for the tracking mode toggle button"
+  },
+  "elementToolbarToggleOn": {
+    "message": "Вкл",
+    "description": "The on state text for the tracking mode toggle button"
+  },
+  "elementToolbarToggleOff": {
+    "message": "Выкл",
+    "description": "The off state text for the tracking mode toggle button"
+  },
+  "optionsPageTitle": {
+    "message": "Опции Page Ruler",
+    "description": "Page title for the options page"
+  },
+  "optionsStatisticsLabel": {
+    "message": "Отправить анонимную статистику использования:",
+    "description": "The label for the send anonymouse usage statistics checkbox"
+  },
+  "optionsStatisticsHelp": {
+    "message": "Собранная информация не содержит никакой личной информации и используется исключительно для целей совершенствования данного расширения.",
+    "description": "Message explaining how the anonymouse usage statistics is used"
+  },
+  "updatePageTitle": {
+    "message": "Обновление Page Ruler",
+    "desciption": "Page title for the update page"
+  },
+  "updatePageHeader": {
+    "message": "Page Ruler был обновлен до версии <span>$VERSION$</span>",
+    "description": "Header message for the page containing the new version number",
+    "placeholders": {
+      "version": {
+        "content": "$1",
+        "example": "2.0.1"
+      }
+    }
+  },
+  "updateContributeTitle": {
+    "message": "Помощь проекту Page Ruler",
+    "desciption": "Title for the contribute side box"
+  },
+  "updateTranslateTitle": {
+    "message": "Перевод",
+    "desciption": "Title for the translate section in the contribute side box"
+  },
+  "updateTranslateDescription": {
+    "message": "Want to use Page Ruler in your own language? Pleast chat with me at  <a href='https://www.zecky.online/'>Zecky</a> and search admin.",
+    "desciption": "Description of how to find out how to contribute a translation"
+  },
+  "updateContributorsTitle": {
+    "message": "Вкладчики",
+    "desciption": "Title for the contributors side box"
+  },
+  "updateCodeTitle": {
+    "message": "Code",
+    "desciption": "Title for the code section in the contributors side box"
+  },
+  "updateIconsTitle": {
+    "message": "Иконки",
+    "desciption": "Title for the icons section in the contributors side box"
+  },
+  "updateTranslationsTitle": {
+    "message": "Переводы",
+    "desciption": "Title for the translations section in the contributors side box"
+  },
+  "updateHistoryTitle": {
+    "message": "Последние обновления",
+    "desciption": "Title for the update history section"
+  },
+  "errorLocal": {
+    "message": "Расширение не может работать в локальной странице по соображениям безопасности",
+    "description": "Error message to show when someone tries to run the extension in a chrome extension page"
+  },
+  "errorWebStore": {
+    "message": "Расширения не могут работать в интернет-магазине Chrome по соображениям безопасности",
+    "description": "Error message to show when someone tries to run the extension in a the chrome web store"
+  },
+  // version 2.0.3
+  "updatePageHeaderInstall": {
+    "message": "Благодарим за установку Page Ruler!",
+    "description": "Header message for the update page when a new user installs it"
+  },
+  "updateDoNotShowPageAgain": {
+    "message": "Не показывать эту страницу",
+    "description": "Label for the do not show this page again checkbox on the update page"
+  },
+  "optionsHideUpdateTabLabel": {
+    "message": "Не показывать вкладку Обновления:",
+    "description": "The label for the do not show update tab checkbox"
+  },
+  "optionsHideUpdateTabHelp": {
+    "message": "Не показывают вкладку обновление, когда новая версия расширения установлена",
+    "description": "Message explaining how the do not show update tab checkbox is used"
+  },
+  // version 2.0.4
+  "updateTip": {
+    "message": "<b>Дополнительно:</b> Используйте Alt+P для включения или отключения Page Ruler, или назначте другое сочетание клавиш на вкладке расширения",
+    "description": "Message informing users about the shortcut key"
+  },
+  // version 2.0.6
+  "toolbarDockBottom": {
+    "message": "Док-панель в нижней части страницы",
+    "description": "Tooltip for the dock bottom image"
+  },
+  "toolbarDockTop": {
+    "message": "Док-панель в верхней части страницы",
+    "description": "Tooltip for the dock top image"
+  },
+  "updateKeyBoardShortcuts": {
+    "message": "Сочетания клавиш",
+    "description": "The title for the keyboard shortcuts section"
+  },
+  "updateKeyboardShortcutsToggle": {
+    "message": "<b>Alt + P:</b> Включить / Выключить Page Ruler",
+    "description": "The Alt + P shortcut description"
+  },
+  "updateKeyboardShortcutsRuler": {
+    "message": "Линейка",
+    "description": "Title for the ruler arrow keys section"
+  },
+  "updateKeyboardShortcutsRulerKeys": {
+    "message": "<b>Стрелочки:</b> Переместите линейку на 1px в любую сторону",
+    "description": "Arrow keys shortcut description"
+  },
+  "updateKeyboardShortcutsRulerShift": {
+    "message": "<b>+ Shift:</b> Переместите линейку на 10 пикселей",
+    "description": "Arrow keys + Shift shortcut description"
+  },
+  "updateKeyboardShortcutsRulerCtrl": {
+    "message": "<b>+ Ctrl (Command):</b> Расширить линейку на 1 пиксель",
+    "description": "Arrow keys + Ctrl shortcut description"
+  },
+  "updateKeyboardShortcutsRulerShiftCtrl": {
+    "message": "<b>+ Shift + Ctrl (Command):</b> Расширить линейку на 10 пикселей",
+    "description": "Arrow keys + Shift + Ctrl shortcut description"
+  },
+  "updateKeyboardShortcutsRulerCtrlAlt": {
+    "message": "<b>+ Ctrl (Command) + Alt:</b> Уменьшить линейку на 1 пиксель",
+    "description": "Arrow keys _Ctrl + Alt shortcut description"
+  },
+  "updateKeyboardShortcutsRulerShiftCtrlAl": {
+    "message": "<b>+ Shift + Ctrl (Command) + Alt:</b> Уменьшить линейку на 10 пикселей",
+    "description": "Arrow keys + Shift + Alt shortcut description"
+  },
+  "updateKeyboardShortcutsToolbar": {
+    "message": "Панель", //Переопределить
+    "description": "Title for toolbar inputs shortcut keys section"
+  },
+  "updateKeyboardShortcutsToolbarUp": {
+    "message": "<b>Клавиша Вверх:</b> Увеличить значение на 1",
+    "description": "Up key input shortcut description"
+  },
+  "updateKeyboardShortcutsToolbarUpShift": {
+    "message": "<b>+ Shift:</b> Увеличить значение на 10",
+    "description": "Up key + Shift input shortcut description"
+  },
+  "updateKeyboardShortcutsToolbarDown": {
+    "message": "<b>Клавиша Вниз:</b> Уменьшить значение на 1",
+    "description": "Down key input shortcut description"
+  },
+  "updateKeyboardShortcutsToolbarDownShift": {
+    "message": "<b>+ Shift:</b> Уменьшить значение на 10",
+    "description": "Down key + Shift input shortcut description"
+  },
+  // version 2.0.7
+  "toolbarGuides": {
+    "message": "Показать направляющие",
+    "description": "Label for the show guides toggle in the toolbar"
+  },
+  // version 2.0.9
+  "toolbarHelp": {
+    "message": "Показать помощь и информацию",
+    "description": "Lable for the help button in the toolbar"
+  },
+  "updateKeyBoardShortcutsGeneral": {
+    "message": "Клавиши быстрого выбора",
+    "description": "Title for general shortcuts section"
+  },
+  "updateReportIssue": {
+    "message": "Сообщить о проблеме или внести предложение",
+    "description": "Report issue button text"
+  },
+  "updateSupportTitle": {
+    "message": "Поддержка Page Ruler",
+    "description": "Support section title"
+  },
+  "updateSupportText": {
+    "message": "Page Ruler является и всегда будет <b>бесплатным</b>. Если у Вас есть свободное время, пожалуйста, поддержите проект, оставте отзыв в соц сетях что бы каждый мог узнать что есть такой замечательный и полезный инструмент",
+    "description": "Support section text"
+  },
+  "updateSupportText2": {
+    "message": "Некоторые пользователи спрашивают, как можно сделать пожертвование, что бы сказать спасибо за Рage Ruler. Я предпочитаю,что б деньги шли на более достойное дело, чем я сам. Так что если у Вас есть желание сказать спасибо и в то же время помочь благотворительной организации, которая моему сердцу, Вы меня безмерно осчастливите :)  ",
+    "description": "Second line of the support section text"
+  },
+  "updateSupportReviewText": {
+    "message": "Оставить отзыв",
+    "description": "Leave review button text"
+  },
+  "updateSupportDonateText": {
+    "message": "Подробнее и Пожертвовать",
+    "description": "Donate button text"
+  },
+  "updateOtherExtensionsText": {
+    "message": "Другие мои расширения",
+    "description": "Other extensions section title"
+  },
+  "updatePageTitleInstall": {
+    "message": "Page Ruler установлен",
+    "description": "Page title for the install page"
+  }
+}
